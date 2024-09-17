@@ -1,1 +1,1 @@
-print('im not m ready')
+print('im not ready')
